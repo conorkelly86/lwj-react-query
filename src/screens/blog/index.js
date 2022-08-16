@@ -6,10 +6,9 @@ import { PostStyles } from '../../components/styled'
 
 export default function Home() {
   const postsQuery = usePosts()
-
   return (
     <div>
-      <h1>Blog</h1>
+      <h1>Blog </h1>
 
       <div
         css={`
